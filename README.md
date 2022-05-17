@@ -45,7 +45,7 @@ Download_all:
 download playlist but if playlists exist already it will delete them and remake all songs within
 
 Delete_config_and_all_urls:
-deletes the ytconfig.txt folder only
+deletes the urls in ytconfig.txt folder only
 
 Delete_config_and_all_urls_and_folders:
 deletes the ytconfig.txt aswell as all folders u downloaded basically wiping everything like its fresh
