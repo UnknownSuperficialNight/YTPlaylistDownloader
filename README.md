@@ -59,6 +59,18 @@ if you are signed in with youtube it will be able to download age restricted vid
 Exit:
 exit duh :)
 
+
+getting errors at the end of the file its normal should look like this
+ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
+
+just ignore them u can stop the script manually if u want at this point
+
+also
+
+total amount of playlists alowed atleast in this version is 24 playlists so at max you could have 120,000 songs if you want more playlists the easyiest way is to make a folder called playlist 2 then copy the script in there and it will generate a new config and u can carry on adding playlists
+
+
+
 you need to add your browser to be able to download with browser how do u do this make a text doc called cookies.txt in the same folder as the script inside the text doc on the first line type the name of your browser supported browsers are: brave, chrome, chromium, edge, firefox, opera, safari, vivaldi
 
 anyway i made this in 4 hours because i was bored its my third script in bash hopefully you like it its 3:00 am i gotta head to bed night :)
