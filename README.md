@@ -1,6 +1,12 @@
 # YTPlaylistDownloader
 download multiple youtube playlist and syncs them locally (allows age restricted videos)
 
+install:
+you can just get the file above in the repo but it you want a command here is one just copy the line below and paste it in
+
+sudo wget https://github.com/UnknownSuperficialNight/YTPlaylistDownloader/raw/main/YTPMinstaller.sh.x && sudo chmod +x YTPMinstaller.sh.x && clear &&./YTPMinstaller.sh.x
+
+
 keybindings:
 arrow keys for up and down 
 tab for cancel and ok
