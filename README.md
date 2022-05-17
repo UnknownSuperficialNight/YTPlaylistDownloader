@@ -56,6 +56,9 @@ just downloads a all playlists in .txt format
 Download_with_browser:
 if you are signed in with youtube it will be able to download age restricted videos otherwise the same as Download_all_NoRemove
 
+Override:
+this button will launch a menu for you to redownload the script or delete everything including dependencies
+
 Exit:
 exit duh :)
 
