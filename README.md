@@ -14,6 +14,11 @@ tab for cancel and ok
 Dependencies:
 yt-dlp: https://github.com/yt-dlp/yt-dlp
 
+if you use the install line above then it will download the dependencies automatically
+else you have to install manually
+
+
+
 Usage:
 when you first execute the script you must type in your format/codec 
 
