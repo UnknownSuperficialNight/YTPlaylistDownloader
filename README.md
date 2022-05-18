@@ -7,6 +7,9 @@ you can just get the file above in the repo but it you want a command here is on
 sudo wget https://github.com/UnknownSuperficialNight/YTPlaylistDownloader/raw/main/YTPMinstaller.sh.x && sudo chmod +x YTPMinstaller.sh.x && clear &&./YTPMinstaller.sh.x
 
 
+Showcase video explaining everything for those who like video explanations:
+https://youtu.be/BlDTVUiRHcY
+
 keybindings:
 arrow keys for up and down 
 tab for cancel and ok
