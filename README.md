@@ -6,6 +6,11 @@ you can just get the file above in the repo but it you want a command here is on
 
 sudo wget https://github.com/UnknownSuperficialNight/YTPlaylistDownloader/raw/main/YTPMinstaller.sh.x && sudo chmod +x YTPMinstaller.sh.x && clear &&./YTPMinstaller.sh.x
 
+Disclaimer:
+the config file might be owned by the root user and group so to change it to your self use
+
+sudo chown user:group ytconfig.txt
+
 
 Showcase video explaining everything for those who like video explanations:
 https://youtu.be/BlDTVUiRHcY
