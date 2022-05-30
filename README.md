@@ -11,6 +11,8 @@ the config file might be owned by the root user and group so to change it to you
 
 sudo chown user:group ytconfig.txt
 
+For more embeded images options use command below:
+python -m pip install mutagen
 
 Showcase video explaining everything for those who like video explanations:
 https://youtu.be/BlDTVUiRHcY
