@@ -1,6 +1,13 @@
 # YTPlaylistDownloader
 download multiple youtube playlist and syncs them locally (allows age restricted videos)
 
+#
+# Note
+i have changed alot around made it much more compact and added multithreading aswell as some redesigns of old bad code
+i need to update the read me as its very old 
+#
+
+
 install:
 you can just get the file above in the repo but it you want a command here is one just copy the line below and paste it in
 
